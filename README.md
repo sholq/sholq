@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sholq)](https://github.com/sholq/github-readme-stats) 
 -->
 
-- 🔭 I’m currently working on start my front-end developer career.
+- 🔭 I’m currently working on start my frontend developer career.
 - 🌱 I’m currently learning **Node.js** and **TypeScript**.
 - 📫 How to reach me: **tg @sholq**
 
